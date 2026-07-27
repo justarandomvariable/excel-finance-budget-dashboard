@@ -47,3 +47,26 @@ This dashboard is designed to answer key financial and business questions, inclu
 - How does actual spending compare with the planned budget?
 - What are the monthly trends in revenue, expenses, and profit?
 - Which financial KPIs require management attention?
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX (Data Analysis Expressions)
+- Pivot Tables
+- Pivot Charts
+- Excel Data Model
+
+## 📚 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Modeling
+- Financial Analysis
+- Budget Variance Analysis
+- KPI Development
+- Dashboard Design
+- Business Analysis
+- Data Visualization
+- Executive Reporting
