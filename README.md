@@ -34,3 +34,16 @@ This project demonstrates an end-to-end financial budgeting and reporting workfl
 - Category-wise financial breakdown
 - Business insights and executive reporting
 - Clean and structured workbook design
+  ---
+
+## 💼 Business Questions Addressed
+
+This dashboard is designed to answer key financial and business questions, including:
+
+- How is revenue performing over time?
+- Are expenses within the allocated budget?
+- What is the overall profitability of the business?
+- Which expense categories contribute the most to total spending?
+- How does actual spending compare with the planned budget?
+- What are the monthly trends in revenue, expenses, and profit?
+- Which financial KPIs require management attention?
