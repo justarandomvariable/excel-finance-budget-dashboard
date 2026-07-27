@@ -70,3 +70,25 @@ This dashboard is designed to answer key financial and business questions, inclu
 - Business Analysis
 - Data Visualization
 - Executive Reporting
+---
+
+---
+
+## 📈 Key Insights
+
+- Built an interactive Excel dashboard to monitor financial performance and budget utilization.
+- Enabled quick identification of revenue, expense, and profit trends through KPI-driven reporting.
+- Compared budgeted and actual spending to support financial planning and variance analysis.
+- Organized raw financial data into a structured data model using Power Query and Power Pivot.
+- Delivered a user-friendly dashboard that simplifies financial reporting and supports business decision-making.
+
+---
+
+## 👩‍💻 Author
+
+**Kriti Tiwari**
+
+Aspiring Data Analyst | Business Analyst
+
+- GitHub: https://github.com/justarandomvariable
+- LinkedIn: *(Add your LinkedIn profile URL here)*
